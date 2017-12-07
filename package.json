@@ -5,6 +5,7 @@
   "main": "src/Index.js",
   "license": "MIT",
   "scripts": {
+    "start": "node bin/log-server.js -p 8080",
     "test": "exit 0"
   },
   "keywords": [
